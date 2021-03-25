@@ -1,9 +1,10 @@
 ---
+title: Thiagorossener
+position: 0
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: "/assets/img/uploads/profile.png"
 name: SHAMxFREEZY
 display_name: SHAMxFREEZY
-position: Chief Editors
 bio: Just developers.
 github_username: SHAMxFREEZY
 facebook_username: SHAMxFREEZY

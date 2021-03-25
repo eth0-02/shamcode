@@ -1,15 +1,18 @@
 ---
-date: 2017-06-08 12:00:00
-layout: post
-title: Do you believe that a spider can dance?
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-category: travel
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824306/theme13_dshbqx.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824306/theme13_dshbqx.jpg
+title: Grab your band and get out
+date: 2017-05-11 12:00:00 Z
+categories:
+- music
 tags:
-  - fate
-  - travel
+- music
+- band
+- passion
+layout: post
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua.
+image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824822/theme15_oqsl4z.jpg
+optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824822/theme15_oqsl4z.jpg
 author: thiagorossener
 ---
 
