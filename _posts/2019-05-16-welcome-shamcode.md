@@ -1,12 +1,11 @@
 ---
 title: Welcome to the desert of the real
-date: 2019-05-16 23:48:05 Z
+date: 2019-05-16 23:48:00 Z
 categories:
 - blog
 tags:
 - welcome
 - blog
-layout: post
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
@@ -14,6 +13,7 @@ image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeo
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 author: thiagorossener
 paginate: true
+layout: post
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
